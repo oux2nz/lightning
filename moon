@@ -1,0 +1,6 @@
+[{
+	"vsim": "",
+	"info": "",
+	"nickname": "",
+	"avatot": ""
+}]
